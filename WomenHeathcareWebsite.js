@@ -54,7 +54,6 @@ document.querySelector("#donate .done-btn").addEventListener("click", () => {
 
 
 
-
 function display(val) {
     if (val == "Andhra Pradesh") {
       document.getElementById("andhraPradesh").style.display = "block";
