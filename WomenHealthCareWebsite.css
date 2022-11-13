@@ -45,9 +45,6 @@ body{
     color: black;
     text-decoration: none;
 }
-p{
-    color:#ed5d86
-}
 .nav-bar a img{
     height: 60px;
     padding-top: 6px;
@@ -295,6 +292,12 @@ h6{
     font-size: 15px;
     height: 40px;
 }
+.schm-heading{
+    color: black;
+}
+.schm-heading span{
+    color: #ED5D85;
+}
 
 /* Media queries */
 @media screen and (max-width: 800px) {
@@ -350,8 +353,6 @@ h6{
         padding: 100px 20px;
     }
 }
-
-
 
 
 
